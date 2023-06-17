@@ -1,0 +1,22 @@
+/*HEAD*/
+.title-image{
+    background-image: url(./IMAges/minimalist-abstract-wallpaper.jpg);
+    background-size: cover;
+    height: 540px;
+
+}
+.title{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+     text-align: center;
+    display: flex;
+    height: 540px;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    flex-wrap: wrap;
+}
+.title h1{
+    display: inline-block;
+    align-self: center;
+}
